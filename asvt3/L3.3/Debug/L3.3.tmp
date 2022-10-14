@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\Debug\L3.3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>L3.3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>L3.3.map</FILE>
+  <FILE>L3.3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>18</LINE></start>
+  <b_><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>50</LINE></b_>
+  <c_><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>60</LINE></c_>
+  <zn><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>70</LINE></zn>
+  <one_zero><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>76</LINE></one_zero>
+  <subs><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>85</LINE></subs>
+  <loop><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>95</LINE></loop>
+  <one_zero2><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>109</LINE></one_zero2>
+  <plus><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>129</LINE></plus>
+  <greater><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>155</LINE></greater>
+  <less><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>152</LINE></less>
+  <znak><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>158</LINE></znak>
+  <back><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>163</LINE></back>
+  <display><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба3\L3.3\main.asm</FILE><LINE>173</LINE></display>
+ </LABELS>
+</ASSEMBLER_INFO>
