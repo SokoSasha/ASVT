@@ -1,0 +1,51 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\Debug\Laba4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Laba4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Laba4.map</FILE>
+  <FILE>Laba4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>43</LINE></start>
+  <display1><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>86</LINE></display1>
+  <C><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>57</LINE></C>
+  <display2><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>96</LINE></display2>
+  <C2><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>71</LINE></C2>
+  <nuller><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>136</LINE></nuller>
+  <arrot><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>142</LINE></arrot>
+  <alrot><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>169</LINE></alrot>
+  <mult><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>193</LINE></mult>
+  <flags><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>80</LINE></flags>
+  <start_><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>106</LINE></start_>
+  <C_><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>109</LINE></C_>
+  <C2_><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>112</LINE></C2_>
+  <nuller_out><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>139</LINE></nuller_out>
+  <arloop2><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>157</LINE></arloop2>
+  <arloop1><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>148</LINE></arloop1>
+  <flags_><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>166</LINE></flags_>
+  <ar1_out><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>154</LINE></ar1_out>
+  <ar2_out><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>163</LINE></ar2_out>
+  <alloop2><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>184</LINE></alloop2>
+  <alloop1><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>175</LINE></alloop1>
+  <al1_out><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>181</LINE></al1_out>
+  <al2_out><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>190</LINE></al2_out>
+  <nnn><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>206</LINE></nnn>
+  <mult_out><FILE>C:\У(ч)ёба\2  Крс\4 Семестр\АСВТ\Лаба4\Laba4\main.asm</FILE><LINE>208</LINE></mult_out>
+ </LABELS>
+</ASSEMBLER_INFO>
